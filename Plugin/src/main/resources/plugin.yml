@@ -1,0 +1,6 @@
+main: ${PACKAGE}.${NAME}
+name: ${NAME}
+version: "${VERSION}"
+api-version: "1.21.1"
+author: iluha168
+description: BUSE <-> FIFOs <-> Minecraft world

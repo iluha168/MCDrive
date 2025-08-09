@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "NBD FIFO Proxy",
+            "path": "../NBD-FIFO",
+        },
+        {
+            "name": "MC Plugin",
+            "path": "../Plugin",
+        },
+        {
+            "name": "MC Server",
+            "path": "../Server",
+        },
+        {
+            "name": "Root",
+            "path": "../",
+        }
+    ],
+}
